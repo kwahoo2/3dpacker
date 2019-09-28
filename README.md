@@ -15,3 +15,6 @@ Run the executable:
 
 `./glmodel`
 
+
+
+The OpenGL part is based on https://learnopengl.com/
